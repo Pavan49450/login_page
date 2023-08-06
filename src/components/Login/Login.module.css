@@ -1,0 +1,20 @@
+.login {
+  width: 60%;
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  margin-top: 100px;
+}
+
+
+.actions {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .control {
+    align-items: center;
+    flex-direction: row;
+  }
+
+}
